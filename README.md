@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya GUpta</h1>
-<h3 align="center">A passionate Fresher from IIT madras India</h3>
+<h3 align="center">A passionate Fresher from IIT madras btech India</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
